@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747340851225",
+    "project_id": "gsc-project-ea7e2",
+    "storage_bucket": "gsc-project-ea7e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747340851225:android:1b78ff21fb3201dea6a288",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVXpPNzhuvePGDv4pnrek6cV-dijWtpyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
