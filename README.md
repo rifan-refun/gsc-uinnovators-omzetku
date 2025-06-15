@@ -1,8 +1,9 @@
 # Google Solution Challenge 2025 
 # Team name : uinnovators
 # Project name : Omzetku 
+**Checkout our Pitch too! : https://bit.ly/4e4jhLb**
 ![logo omzetku-02-02 2 (1)](https://github.com/user-attachments/assets/25c02bb0-5493-4677-8b8c-5ae43cdb2375)
-**#Checkout our Pitch too! : https://bit.ly/4e4jhLb**
+
 
 ## What is our project purpose ? 😉
 We propose an intelligent, AI-driven Decision Support System (DSS) tailored for small to medium-sized businesses (SMEs), especially in the F&B sector, named Omzetku. Omzetku is a smart Android-based mobile application built specifically for medium-scale F&B MSMEs in Indonesia to help them predict sales, identify influential factors, and support better business decision-making. The name is derived from the Indonesian word “omzet” meaning revenue or turnover, and “ku” meaning mine, symbolizing personal ownership and growth. Omzetku enables users to forecast sales, detect sales patterns, and recommend high-performing products, empowering business owners to make strategic, data-based decisions.
